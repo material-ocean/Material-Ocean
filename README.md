@@ -1,4 +1,4 @@
-## Material Oceanic is a gtk theme based on the colors of the vscode material theme
+## Material Oceanic is a theme for various Applications based on a blueish ocean color scheme
 
 #### Supported DE's and Apps:
 
