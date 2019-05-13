@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Ocean
+Comment=A Material Design theme with ocean colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Ocean
+MetacityTheme=Material-Ocean
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
