@@ -1,4 +1,4 @@
-> Material Oceanic is a gtk theme based on the colors of the vscode material theme
+## Material Oceanic is a gtk theme based on the colors of the vscode material theme
 
 #### Supported DE's and Apps:
 
@@ -14,4 +14,14 @@
 - [VScode](https://equinsuocha.io/projects/material-theme/)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
+#### Colors:
+
+<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_13-58.png">
+
 #### Screenshots:
+
+<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_13-57.png">
+
+<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_13-55.png">
+
+<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-12_15-18.png">
