@@ -9,6 +9,7 @@
 - termite
 - plank
 - Rofi
+- spotify (copy folder content to {spotify-directory}/Apps)
 
 #### Material Ocean for other apps:
 
