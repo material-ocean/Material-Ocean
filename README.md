@@ -10,6 +10,7 @@
 - plank
 - Rofi
 - spotify (copy folder content to {spotify-directory}/Apps)
+- telegram
 
 #### Material Ocean for other apps:
 
