@@ -22,7 +22,7 @@
 
 #### Colors:
 
-<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_13-58.png">
+<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/colors.png">
 
 #### Screenshots:
 
