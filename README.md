@@ -9,7 +9,7 @@
 - termite
 - plank
 - Rofi
-- spotify (copy folder content to {spotify-directory}/Apps)
+- spotify (Copy Material-Ocean to ~/.config/spicetify/Themes )
 - telegram
 
 #### Material Ocean for other apps:
@@ -18,6 +18,7 @@
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 - [dunst](https://github.com/Blacksuan19/Dotfiles/blob/master/dunst/dunstrc)
 - [polybar](https://github.com/Blacksuan19/Dotfiles/blob/master/polybar/config)
+- [inkdrop notes](https://github.com/Blacksuan19/inkdrop-material-ocean-ui)
 
 #### Colors:
 
