@@ -16,8 +16,6 @@
 
 
 
-#### To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
-
 ### [Gtk theme](https://github.com/material-ocean/Gtk-Theme) Supported DE's:
 
 - Gnome
@@ -41,9 +39,15 @@
 - [VScode](https://equinsuocha.io/projects/material-theme/)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
+### Notes:
+
+- To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
+- Website based on this theme: [blacksuan19.github.io](https://blacksuan19.github.io)
+- for more applications check out [my dotfiles](https://github.com/Blacksuan19/Dotfiles/commits/master)
+
 ### Installation:
 
-- Each repo has specific istructions in how to install
+- Each repo has specific instructions on how to install
 
 ### Colors:
 
