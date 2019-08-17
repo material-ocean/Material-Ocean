@@ -19,6 +19,7 @@
 - [dunst](https://github.com/Blacksuan19/Dotfiles/blob/master/dunst/dunstrc)
 - [polybar](https://github.com/Blacksuan19/Dotfiles/blob/master/polybar/config)
 - [inkdrop notes](https://github.com/Blacksuan19/inkdrop-material-ocean-ui)
+- [Typora](https://github.com/Blacksuan19/Material-Ocean-Typora-Theme)
 
 #### Colors:
 
