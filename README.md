@@ -1,36 +1,61 @@
-## Material Oceanic is a theme for various Applications based on a blueish ocean color scheme
+<p align="center">
+  <img width="200" height="250" src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/logo.png">
+</p>
 
-#### Supported DE's and Apps:
+
+
+## Material Ocean is a theme for various Applications based on a blueish ocean color scheme
+
+### Introduction:
+
+> This is my own effort to create a color scheme that doesn't blind me by being too dark or too light and not solarized (ex favorite ).
+>
+> i found this color (`0f111a`) for the first time on material theme for vscode, so i copied the main color and added other colors gradually with time until here we are
+>
+> currently anything that uses xresources can use these colors, and there are many other apps themed as well.
+
+
+
+#### To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
+
+### [Gtk theme](https://github.com/material-ocean/Gtk-Theme) Supported DE's:
 
 - Gnome
 - Xfce4
 - Unity
-- Most gnome shell based DE's (budgie, pantheon?)
-- termite
-- plank
-- Rofi
-- spotify (Copy Material-Ocean to ~/.config/spicetify/Themes )
-- telegram
+- budgie
+- Most gnome shell based DE's
 
-#### Material Ocean for other apps:
+### Supported Applications:
+
+- [Termite](https://github.com/material-ocean/Termite-theme)
+- [Plank](https://github.com/material-ocean/Plank-Theme)
+- [Rofi](https://github.com/material-ocean/rofi-Theme)
+- [Spotify](https://github.com/material-ocean/Spotify-Theme)
+- [Telegram](https://github.com/material-ocean/Telegram-Theme)
+- [InkDrop](https://github.com/material-ocean/inkdrop-ui)
+- [Typora](https://github.com/material-ocean/Typora-Theme)
+
+### 3rd party themes:
 
 - [VScode](https://equinsuocha.io/projects/material-theme/)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-- [dunst](https://github.com/Blacksuan19/Dotfiles/blob/master/dunst/dunstrc)
-- [polybar](https://github.com/Blacksuan19/Dotfiles/blob/master/polybar/config)
-- [inkdrop notes](https://github.com/Blacksuan19/inkdrop-material-ocean-ui)
-- [Typora](https://github.com/Blacksuan19/Material-Ocean-Typora-Theme)
 
-#### Colors:
+### Installation:
 
-<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/colors.png">
+- Each repo has specific istructions in how to install
 
-#### Screenshots:
+### Colors:
 
-<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_13-57.png">
+![](https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/colors.png)
 
-<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_13-55.png">
+### Contributions:
 
-<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-12_15-18.png">
+- If you have created a theme for an application do a pull request here, then i will fork the repo.
 
-<img src="https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/Screenshots/2019-05-13_14-30.jpg">
+### License:
+
+Licensed Under The GNU GPL version 3, For more info read [LICENSE](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE).
+
+
+
