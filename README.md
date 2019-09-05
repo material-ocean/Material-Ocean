@@ -2,8 +2,6 @@
   <img width="300" height="300" src="https://raw.githubusercontent.com/material-ocean/Material-Ocean/master/logo.png">
 </p>
 
-
-
 ## Material Ocean is a theme for various Applications based on a blueish ocean color scheme
 
 ### Introduction:
@@ -13,8 +11,6 @@
 > i found this color (`0f111a`) for the first time on material theme for vscode, so i copied the main color and added other colors gradually with time until here we are
 >
 > currently anything that uses xresources can use these colors, and there are many other apps themed as well.
-
-
 
 ### [Gtk theme](https://github.com/material-ocean/Gtk-Theme) Supported DE's:
 
@@ -42,7 +38,7 @@
 ### Notes:
 
 - To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
-- Website based on this theme: [blacksuan19.github.io](https://blacksuan19.github.io)
+- Website based on this theme: [blacksuan19.me](https://blacksuan19.github.io), [prateekpunetha.me](https://prateekpunetha.me/)
 - for more applications check out [my dotfiles](https://github.com/Blacksuan19/Dotfiles/commits/master)
 
 ### Installation:
@@ -60,6 +56,3 @@
 ### License:
 
 Licensed Under The GNU GPL version 3, For more info read [LICENSE](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE).
-
-
-
