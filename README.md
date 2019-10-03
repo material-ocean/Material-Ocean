@@ -17,7 +17,7 @@
 - Gnome
 - Xfce4
 - Unity
-- budgie
+- Budgie
 - Most gnome shell based DE's
 
 ### Supported Applications:
