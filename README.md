@@ -26,6 +26,7 @@
 - [Plank](https://github.com/material-ocean/Plank-Theme)
 - [Rofi](https://github.com/material-ocean/rofi-Theme)
 - [Spotify](https://github.com/material-ocean/Spotify-Theme)
+- [Swift Installer](https://github.com/material-ocean/Android-Theme)
 - [Telegram](https://github.com/material-ocean/Telegram-Theme)
 - [InkDrop](https://github.com/material-ocean/inkdrop-ui)
 - [Typora](https://github.com/material-ocean/Typora-Theme)
@@ -51,7 +52,7 @@
 
 ### Contributions:
 
-- If you have created a theme for an application do a pull request here, then i will fork the repo.
+- If you have created a theme for an application do a pull request here, then I will fork the repo.
 
 ### License:
 
