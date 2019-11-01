@@ -1,6 +1,7 @@
-*.background:  #033B68
-*.foreground1:  #006DAF
-*.foreground2:  #00A6E4
+*.background:  #0F111A
+*.foreground1:  #033B68
+*.foreground2:  #006DAF
+*.foreground3:  #00A6E4
 
 *.color0:  #432CB3
 *.color1:  #B34635
