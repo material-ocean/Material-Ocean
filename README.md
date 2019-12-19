@@ -33,7 +33,7 @@
 
 ### 3rd party themes:
 
-- [VScode](https://equinsuocha.io/projects/material-theme/)
+- [VScode](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
 ### Notes:
