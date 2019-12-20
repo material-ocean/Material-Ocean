@@ -12,13 +12,10 @@
 >
 > currently anything that uses xresources can use these colors, and there are many other apps themed as well.
 
-### [Gtk theme](https://github.com/material-ocean/Gtk-Theme) Supported DE's:
+### Supported DE's:
 
-- Gnome
-- Xfce4
-- Unity
-- Budgie
-- Most gnome shell based DE's
+- [Gtk Theme](https://github.com/material-ocean/Gtk-Theme)
+- [KDE Plasma Theme](https://github.com/material-ocean/plasma)
 
 ### Supported Applications:
 
