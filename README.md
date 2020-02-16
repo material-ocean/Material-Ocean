@@ -36,7 +36,7 @@
 ### Notes:
 
 - To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
-- Website based on this theme: [blacksuan19.me](htts://blacksuan19.me), [prateekpunetha.me](https://prateekpunetha.me/), [akospaha.tk](https://akospaha.tk/)
+- Website based on this theme: [blacksuan19.me](https://blacksuan19.me), [prateekpunetha.me](https://prateekpunetha.me/), [akospaha.tk](https://akospaha.tk/)
 - for more applications check out [my dotfiles](https://github.com/Blacksuan19/Dotfiles)
 
 ### Installation:
