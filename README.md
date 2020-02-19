@@ -14,7 +14,7 @@
 
 ### Supported DE's:
 
-- [Gtk Theme](https://github.com/material-ocean/Gtk-Theme)
+- [Gtk theme](https://github.com/material-ocean/Gtk-Theme)
 - [KDE Plasma Theme](https://github.com/material-ocean/plasma)
 
 ### Supported Applications:
@@ -36,7 +36,7 @@
 ### Notes:
 
 - To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
-- Website based on this theme: [blacksuan19.me](https://blacksuan19.github.io), [prateekpunetha.me](https://prateekpunetha.me/)
+- Website based on this theme: [blacksuan19.me](https://blacksuan19.me), [prateekpunetha.me](https://prateekpunetha.me/)
 - for more applications check out [my dotfiles](https://github.com/Blacksuan19/Dotfiles/commits/master)
 
 ### Installation:
