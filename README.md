@@ -29,10 +29,16 @@
 - [Typora](https://github.com/material-ocean/Typora-Theme)
 - [Google Keyboard](https://github.com/AkosPaha/Material-ocean-gboard-theme)
 
-### 3rd party themes:
+### From 3rd party:
 
 - [VScode](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+
+### Custom ROMs:
+
+- [LegionOS](https://github.com/legionRom)
+- [CorvusOS](https://corvus-rom.github.io/)
+- [MSM-Xtended](https://msmxtended.me/)
 
 ### Notes:
 
@@ -46,7 +52,7 @@
 
 ### Colors:
 
-![](https://raw.githubusercontent.com/Blacksuan19/Material-Ocean/master/colors.png)
+![](./colors.png)
 
 ### Contributions:
 
@@ -54,4 +60,4 @@
 
 ### License:
 
-Licensed Under The GNU GPL version 3, For more info read [LICENSE](https://github.com/material-ocean/Material-Ocean/blob/master/LICENSE).
+Licensed Under The GNU GPL version 3, For more info read [LICENSE](./LICENSE).
