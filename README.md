@@ -28,6 +28,7 @@
 - [InkDrop](https://github.com/material-ocean/inkdrop-ui)
 - [Typora](https://github.com/material-ocean/Typora-Theme)
 - [Google Keyboard](https://github.com/AkosPaha/Material-ocean-gboard-theme)
+- [Mozilla-Firefox]((https://github.com/material-ocean/Firefox-Theme)
 
 ### From 3rd party:
 
