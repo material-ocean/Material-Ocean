@@ -29,6 +29,7 @@
 - [Typora](https://github.com/material-ocean/Typora-Theme)
 - [Google Keyboard](https://github.com/AkosPaha/Material-ocean-gboard-theme)
 - [Firefox](https://github.com/material-ocean/Firefox-Theme)
+- [Notion](https://github.com/material-ocean/Notion-Theme)
 
 ### From 3rd party:
 
