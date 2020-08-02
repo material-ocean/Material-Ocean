@@ -30,6 +30,7 @@
 - [Google Keyboard](https://github.com/AkosPaha/Material-ocean-gboard-theme)
 - [Firefox](https://github.com/material-ocean/Firefox-Theme)
 - [Notion](https://github.com/material-ocean/Notion-Theme)
+- [Termux](https://github.com/material-ocean/Termux-Theme)
 
 ### From 3rd party:
 
