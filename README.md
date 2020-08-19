@@ -6,12 +6,12 @@
 
 This is my own effort to create a color scheme that doesn't blind by being too dark or too light and not solarized. I found this color (`0f111a`) for the first time on material theme for Vscode, so i copied the main color and added other colors gradually until here we are, currently anything that uses Xresources can use these colors, and there are many other apps themed as well.
 
-### Supported Desktop Environments:
+### Desktop Environments:
 
 - [GTK Based Theme](https://github.com/material-ocean/Gtk-Theme)
 - [QT Based Theme](https://github.com/material-ocean/plasma)
 
-### Supported Applications:
+### Applications:
 
 - [Termite](https://github.com/material-ocean/Termite-theme)
 - [Plank](https://github.com/material-ocean/Plank-Theme)
