@@ -6,11 +6,7 @@
 
 ### Introduction:
 
-> This is my own effort to create a color scheme that doesn't blind me by being too dark or too light and not solarized (ex favorite ).
->
-> i found this color (`0f111a`) for the first time on material theme for vscode, so i copied the main color and added other colors gradually with time until here we are
->
-> currently anything that uses xresources can use these colors, and there are many other apps themed as well.
+This is my own effort to create a color scheme that doesn't blind by being too dark or too light and not solarized. I found this color (`0f111a`) for the first time on material theme for Vscode, so i copied the main color and added other colors gradually until here we are, currently anything that uses Xresources can use these colors, and there are many other apps themed as well.
 
 ### Supported Desktop Environments:
 
