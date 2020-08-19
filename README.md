@@ -12,10 +12,10 @@
 >
 > currently anything that uses xresources can use these colors, and there are many other apps themed as well.
 
-### Supported DE's:
+### Supported Desktop Environments:
 
-- [Gtk theme](https://github.com/material-ocean/Gtk-Theme)
-- [KDE Plasma Theme](https://github.com/material-ocean/plasma)
+- [GTK Based Theme](https://github.com/material-ocean/Gtk-Theme)
+- [QT Based Theme](https://github.com/material-ocean/plasma)
 
 ### Supported Applications:
 
@@ -43,10 +43,15 @@
 - [CorvusOS](https://corvus-rom.github.io/)
 - [MSM-Xtended](https://msmxtended.me/)
 
+### Websites
+
+- [blacksuan19.me](https://blacksuan19.me)
+- [prateekpunetha.me](https://prateekpunetha.me/)
+- [akospaha.tk](https://akospaha.tk/)
+
 ### Notes:
 
 - To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
-- Website based on this theme: [blacksuan19.me](https://blacksuan19.me), [prateekpunetha.me](https://prateekpunetha.me/), [akospaha.tk](https://akospaha.tk/)
 - for more applications check out [my dotfiles](https://github.com/Blacksuan19/Dotfiles)
 
 ### Installation:
@@ -55,7 +60,7 @@
 
 ### Colors:
 
-![](./colors.png)
+![theme colors](./colors.png)
 
 ### Contributions:
 
