@@ -2,8 +2,6 @@
   <img width="300" height="300" src="https://raw.githubusercontent.com/material-ocean/Material-Ocean/master/logo.png">
 </p>
 
-## Material Ocean is a theme for various Applications based on a blueish ocean color scheme
-
 ### Introduction:
 
 This is my own effort to create a color scheme that doesn't blind by being too dark or too light and not solarized. I found this color (`0f111a`) for the first time on material theme for Vscode, so i copied the main color and added other colors gradually until here we are, currently anything that uses Xresources can use these colors, and there are many other apps themed as well.
@@ -41,6 +39,7 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 
 ### Websites
 
+- [Jekyll website template](https://github.com/Blacksuan19/blacksuan19.github.io)
 - [blacksuan19.me](https://blacksuan19.me)
 - [prateekpunetha.me](https://prateekpunetha.me/)
 - [akospaha.tk](https://akospaha.tk/)
