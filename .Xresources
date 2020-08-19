@@ -1,3 +1,8 @@
+/* Copyright © Blacksuan19 @ 2020
+    Part of Material Ocean Theme
+    Licensed Under GNU's GPL3
+*/
+
 *.background:  #0F111A
 *.foreground:  #00010a
 *.cursorColor: #ff4151
