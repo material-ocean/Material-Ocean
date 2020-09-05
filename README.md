@@ -36,6 +36,10 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 - [LegionOS](https://github.com/legionRom)
 - [CorvusOS](https://corvus-rom.github.io/)
 - [MSM-Xtended](https://msmxtended.me/)
+- [Resurrection Remix](https://github.com/ResurrectionRemix/)
+- [Fluid OS](http://fluidos.me)
+
+
 
 ### Websites
 
