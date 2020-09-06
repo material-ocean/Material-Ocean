@@ -28,6 +28,7 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 
 ### From 3rd party:
 
+- [Vim](https://github.com/hzchirs/vim-material)
 - [VScode](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
@@ -38,8 +39,6 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 - [MSM-Xtended](https://msmxtended.me/)
 - [Resurrection Remix](https://github.com/ResurrectionRemix/)
 - [Fluid OS](http://fluidos.me)
-
-
 
 ### Websites
 
