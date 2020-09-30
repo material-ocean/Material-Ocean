@@ -43,8 +43,8 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 ### Websites
 
 - [Jekyll website template](https://github.com/Blacksuan19/blacksuan19.github.io)
-- [blacksuan19.me](https://blacksuan19.me)
-- [prateekpunetha.me](https://prateekpunetha.me/)
+- [blacksuan19.tk](https://blacksuan19.tk)
+- [prateekpunetha.dev](https://prateekpunetha.dev/)
 - [akospaha.tk](https://akospaha.tk/)
 
 ### Notes:
