@@ -25,6 +25,8 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 - [Firefox](https://github.com/material-ocean/Firefox-Theme)
 - [Notion](https://github.com/material-ocean/Notion-Theme)
 - [Termux](https://github.com/material-ocean/Termux-Theme)
+- [Kitty](https://github.com/material-ocean/Kitty-theme)
+- [Alacritty](https://github.com/material-ocean/Alacritty-theme)
 
 ### From 3rd party:
 
