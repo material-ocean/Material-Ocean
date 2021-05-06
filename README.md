@@ -23,6 +23,7 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 - [Typora](https://github.com/material-ocean/Typora-Theme)
 - [Google Keyboard](https://github.com/AkosPaha/Material-ocean-gboard-theme)
 - [Firefox](https://github.com/material-ocean/Firefox-Theme)
+- [Firefox Proton](https://github.com/dlrojasz/material-ocean-firefox-theme)
 - [Notion](https://github.com/material-ocean/Notion-Theme)
 - [Termux](https://github.com/material-ocean/Termux-Theme)
 - [Kitty](https://github.com/material-ocean/Kitty-theme)
