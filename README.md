@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/material-ocean/Material-Ocean/master/logo.png">
+  <img src="./logo.png">
 </p>
 
 ### Introduction
