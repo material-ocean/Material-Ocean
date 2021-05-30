@@ -2,16 +2,20 @@
   <img width="300" height="300" src="https://raw.githubusercontent.com/material-ocean/Material-Ocean/master/logo.png">
 </p>
 
-### Introduction:
+### Introduction
 
-This is my own effort to create a color scheme that doesn't blind by being too dark or too light and not solarized. I found this color (`0f111a`) for the first time on material theme for Vscode, so i copied the main color and added other colors gradually until here we are, currently anything that uses Xresources can use these colors, and there are many other apps themed as well.
+This is my own effort to create a color scheme that doesn't blind by being too
+dark or too light and not solarized. I found this color (`0f111a`) for the first
+time on material theme for Vscode, so i copied the main color and added other
+colors gradually until here we are, currently anything that uses Xresources can
+use these colors, and there are many other apps themed as well.
 
-### Desktop Environments:
+### Desktop Environments
 
 - [GTK Based Theme](https://github.com/material-ocean/Gtk-Theme)
 - [QT Based Theme](https://github.com/material-ocean/plasma)
 
-### Applications:
+### Applications
 
 - [Termite](https://github.com/material-ocean/Termite-theme)
 - [Plank](https://github.com/material-ocean/Plank-Theme)
@@ -28,13 +32,13 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 - [Kitty](https://github.com/material-ocean/Kitty-theme)
 - [Alacritty](https://github.com/material-ocean/Alacritty-theme)
 
-### From 3rd party:
+### From 3rd party
 
 - [Vim](https://github.com/hzchirs/vim-material)
 - [VScode](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 - [Intellij](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
-### Custom ROMs:
+### Custom ROMs
 
 - [LegionOS](https://github.com/legionRom)
 - [CorvusOS](https://corvus-rom.github.io/)
@@ -49,23 +53,25 @@ This is my own effort to create a color scheme that doesn't blind by being too d
 - [prateekpunetha.dev](https://prateekpunetha.dev/)
 - [akospaha.tk](https://akospaha.tk/)
 
-### Notes:
+### Notes
 
 - To be able to use the colors globally copy `.Xresources` to `~/.Xresources`
-- for more applications check out [my dotfiles](https://github.com/Blacksuan19/Dotfiles)
+- for more applications check out
+  [my dotfiles](https://github.com/Blacksuan19/Dotfiles)
 
-### Installation:
+### Installation
 
 - Each repo has specific instructions on how to install
 
-### Colors:
+### Colors
 
 ![theme colors](./colors.png)
 
-### Contributions:
+### Contributions
 
-- If you have created a theme for an application do a pull request here, then I will fork the repo.
+- If you have created a theme for an application do a pull request here adding
+  it to the list, then I will fork the repo.
 
-### License:
+### License
 
 Licensed Under The GNU GPL version 3, For more info read [LICENSE](./LICENSE).
