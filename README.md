@@ -40,17 +40,17 @@ use these colors, and there are many other apps themed as well.
 
 ### Custom ROMs
 
-- [LegionOS](https://github.com/legionRom)
-- [CorvusOS](https://corvus-rom.github.io/)
-- [MSM-Xtended](https://msmxtended.me/)
-- [Resurrection Remix](https://github.com/ResurrectionRemix/)
-- [Fluid OS](http://fluidos.me)
+- [LegionOS](https://github.com/Project-LegionOS)
+- [CorvusOS](https://www.corvusrom.com/)
+- [MSM-Xtended](https://project-xtended.org/)
+- [Resurrection Remix](https://resurrectionremix.com/)
+- [Fluid OS](https://projectfluid.org/)
+- [HavocOS](https://havoc-os.com/)
 
 ### Websites
 
 - [Jekyll website template](https://github.com/Blacksuan19/blacksuan19.github.io)
-- [blacksuan19.tk](https://blacksuan19.tk)
-- [prateekpunetha.dev](https://prateekpunetha.dev/)
+- [blacksuan19.dev](https://blacksuan19.dev)
 - [akospaha.tk](https://akospaha.tk/)
 
 ### Notes
