@@ -31,6 +31,7 @@ use these colors, and there are many other apps themed as well.
 - [Termux](https://github.com/material-ocean/Termux-Theme)
 - [Kitty](https://github.com/material-ocean/Kitty-theme)
 - [Alacritty](https://github.com/material-ocean/Alacritty-theme)
+- [Konsole](https://github.com/material-ocean/konsole-theme)
 
 ### From 3rd party
 
