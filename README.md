@@ -32,6 +32,8 @@ use these colors, and there are many other apps themed as well.
 - [Kitty](https://github.com/material-ocean/Kitty-theme)
 - [Alacritty](https://github.com/material-ocean/Alacritty-theme)
 - [Konsole](https://github.com/material-ocean/konsole-theme)
+- [Mailspring](https://github.com/vigneshkashyap/material-ocean-mailspring/)
+- [Chromium Theme](https://github.com/vigneshkashyap/chrome-material-ocean/)
 
 ### From 3rd party
 
