@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./logo.png">
 </p>
-
 ### Introduction
 
 This is my own effort to create a color scheme that doesn't blind by being too
@@ -53,7 +52,7 @@ use these colors, and there are many other apps themed as well.
 ### Websites
 
 - [Jekyll website template](https://github.com/Blacksuan19/blacksuan19.github.io)
-- [blacksuan19.dev](https://blacksuan19.dev)
+- [aolabs.dev](https://aolabs.dev)
 - [akospaha.tk](https://akospaha.tk/)
 
 ### Notes
